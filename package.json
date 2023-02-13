@@ -2,7 +2,7 @@
   "name": "aa-richeditor",
   "author": "aa-rich",
   "description": "A custom aa-richeditor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./build/ckeditor.js",
   "devDependencies": {
